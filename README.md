@@ -1,6 +1,6 @@
 # Sorting Algorithms in Python
 
-![Sorting Algorithms](https://www.example.com/sorting-algorithms.png)
+![Sorting Algorithms](https://th.bing.com/th/id/R.d5d1d6698277c7ec6d41b0a66e27c1ba?rik=6MKf6HYkQG4rfw&pid=ImgRaw&r=0)
 
 Welcome to the Sorting Algorithms repository! This project showcases a collection of major sorting algorithms, including Bubble Sort, Merge Sort, Selection Sort, and more. Each sorting algorithm is implemented in both iterative and recursive forms, demonstrating different approaches to sorting data efficiently.
 
